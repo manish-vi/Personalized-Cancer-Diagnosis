@@ -78,7 +78,7 @@ Metric(s):
 * No Latency constraints.
 
 # 3. Getting Started
-Start by downloading the project and run "Netflix_Recommendation.ipynb" file in ipython-notebook.
+Start by downloading the project and run "CancerDiagnostic.ipynb" file in ipython-notebook.
 
 # 4. Prerequisites
 You need to have installed following softwares and libraries before running this project.
