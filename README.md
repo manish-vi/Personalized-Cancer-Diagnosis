@@ -72,10 +72,10 @@ Metric(s):
 </p>
 <p> Constraints:
 </p>
-* Interpretability
-* Class probabilities are needed.
-* Penalize the errors in class probabilites => Metric is Log-loss.
-* No Latency constraints.
+ * Interpretability
+ * Class probabilities are needed.
+ * Penalize the errors in class probabilites => Metric is Log-loss.
+ * No Latency constraints.
 
 # 3. Getting Started
 Start by downloading the project and run "CancerDiagnostic.ipynb" file in ipython-notebook.
