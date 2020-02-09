@@ -1,7 +1,6 @@
-<p style="font-size:36px;text-align:center"> <b>Personalized cancer diagnosis</b> </p>
+# Personalized cancer diagnosis
 
 <h1>1. Business Problem</h1>
-
 <h2>1.1. Description</h2>
 
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment </p>
